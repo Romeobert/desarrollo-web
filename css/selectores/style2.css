@@ -1,20 +1,12 @@
-.Renovar {
+.comer {
+    color: green;
+}
+.pizza {
     color: red;
 }
-.bien {
-    color: green;}
-.azul {
-    color:blue;
-}
-.perifericos {
-    color: grey;
-}
-.componentes {
+h2 {
     color: violet;
 }
-p {
-    color: gold;
-}
-h1 {
-    color: purple;
+#es {
+    color: blue;
 }
