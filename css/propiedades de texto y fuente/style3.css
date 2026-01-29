@@ -1,4 +1,22 @@
-p {
-    color: blue;
-    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+p{
+    color: red;
+    font-family: Tahoma;
+    font-size: 16px;
+    font-weight: 400;
+    font-style:italic;
+    text-align: left;
+    text-decoration: line-through;
+    line-height: 1.4;
+    letter-spacing: none;
+    text-transform:capitalize;
+}
+h1{
+    color:blue;
+    font-family: Cambria;
+    font-size: 20px ;
+    font-weight:900;
+    font-style:oblique;
+    text-align: start;
+    text-decoration: line-through;
+    text-transform: uppercase;
 }
